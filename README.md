@@ -13,7 +13,6 @@ Welcome to the Intelia Test repository for the Task Manager App! This repository
 - [Frontend (React)](#frontend-react)
   - [Running the Frontend](#running-the-frontend)
 - [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
